@@ -1,1 +1,0 @@
-A digital clock made in python.
